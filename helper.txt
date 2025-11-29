@@ -1,0 +1,3 @@
+> conda create -n fapi python=3.13
+> conda activate fapi
+> pip install "fastapi[standard]"
